@@ -1,0 +1,5 @@
+# Visual Studio cache & settings
+.vs/
+*.vscode/
+bin/
+obj/
